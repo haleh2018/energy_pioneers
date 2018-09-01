@@ -689,3 +689,27 @@ footer p{
 	padding:200px 0;
 
 }
+
+.project1 {
+	background: url(../images/part1.jpg) no-repeat center center;
+	background-size: cover;	
+	padding:200px 0;
+	}
+
+.project2 {
+	background: url(../images/part2.jpg) no-repeat center center;
+	background-size: cover;	
+	padding:200px 0;
+	}	
+
+.project3 {
+	background: url(../images/part3.jpg) no-repeat center center;
+	background-size: cover;	
+	padding:200px 0;
+}
+
+.project4 {
+	background: url(../images/part4.jpg) no-repeat center center;
+	background-size: cover;	
+	padding:200px 0;
+}
