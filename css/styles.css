@@ -178,7 +178,7 @@ header li{
 }
 
 .part1 {
-	background: url(../images/123.JPG) no-repeat center center;
+	background: url(../images/123.jpg) no-repeat center center;
 	background-size: cover;	
 	padding:100px 0;
 
@@ -684,7 +684,7 @@ footer p{
 	}
 
 .about-img {
-	background: url(../images/about.JPG) no-repeat center center;
+	background: url(../images/about.jpg) no-repeat center center;
 	background-size: cover;	
 	padding:200px 0;
 
