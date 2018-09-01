@@ -32,15 +32,18 @@ $(document).ready(function() {
     })
 });
 
+if($(".home-page").length){
 
 
 $("#projects").click(  function(event){
     console.log("test");
    event.preventDefault();
   $('html, body').animate({
-    scrollTop: $('.overlay').offset().top
+    scrollTop: $('#overlay').offset().top
   }, 2000);
   
 } );
+   
+}
 
 
